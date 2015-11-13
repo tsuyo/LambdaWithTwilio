@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# except lambda function
+!.gitignore
+!lambda_function.py
+!config_template.py
+!aws_lambda_create_function.sh
+!LICENSE
+!README*
